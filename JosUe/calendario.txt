@@ -1,2 +1,7 @@
 kyc perro
+<<<<<<< HEAD
 modified by TyS
+=======
+
+te gane perro
+>>>>>>> 7d31e9e95476d7affc03f43cddd1c91a0680e544
